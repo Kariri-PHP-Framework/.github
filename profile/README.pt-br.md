@@ -31,11 +31,9 @@ Abaixo estão alguns dos principais componentes do KaririCode Framework. Cada li
 
 ## Agradecimentos
 
-- A equipe e os colaboradores do KaririCode Framework.
-- A comunidade PHP pelo contínuo suporte e inspiração.
+- A equipe do KaririCode Framework e contribuidores.
+- Inspirado por padrões de pipeline e cadeias de processamento em arquitetura de software.
 
 ---
 
-Feito com ❤️ pela equipe KaririCode. Empoderando desenvolvedores a criar aplicações PHP mais robustas e flexíveis.
-
-Mantido por Walmir Silva - [walmir.silva@kariricode.org](mailto:walmir.silva@kariricode.org)
+Construído com ❤️ pela equipe KaririCode. Capacitando desenvolvedores a criar aplicações PHP mais robustas e flexíveis.
