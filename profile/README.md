@@ -29,13 +29,11 @@ Below are some of the key components of the KaririCode Framework. Each link lead
 - **Community**: [KaririCode Club Community](https://kariricode.club)
 - **Professional Support**: For enterprise-level support, contact us at support@kariricode.org
 
-## Acknowledgments
+## Acknowledgements
 
 - The KaririCode Framework team and contributors.
-- The PHP community for their continuous support and inspiration.
+- Inspired by pipeline patterns and processing chains in software architecture.
 
 ---
 
-Built with ❤️ by the KaririCode team. Empowering developers to build more robust and flexible PHP applications.
-
-Maintained by Walmir Silva - [walmir.silva@kariricode.org](mailto:walmir.silva@kariricode.org)
+Built with ❤️ by the KaririCode team. Empowering developers to create more robust and flexible PHP applications.
